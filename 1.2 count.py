@@ -1,4 +1,4 @@
-print(7+7)
-print(7-7)
-print(7*7)
-print(7/7)
+print(10+10)
+print(10-10)
+print(10*10)
+print(10/10)
